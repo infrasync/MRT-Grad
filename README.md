@@ -5,6 +5,9 @@
 Saya membuat ilustrasi MRT dengan kode HTML dan CSS Murni.
 Untuk melihat demonya damapt mengunjungi https://niscita-mrt-grad.netlify.com
 
+Preview :
+![alt text](https://raw.githubusercontent.com/niscita/MRT-Grad/master/screenshot/screenshot.png)
+
 Struktur direktori :
 
 css/ --
